@@ -1,4 +1,4 @@
-# GooglePlay
+# GooglePlay Apps Analysis
 
 The Applications' market For Android OS is fast growing in the past few years.
 
