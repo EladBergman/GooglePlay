@@ -1,15 +1,8 @@
 # GooglePlay
 
-Context
-In this project, we are going to explore what kind of applications are most popular among Android users.
+The Applications' Market For Android OS is fast growing in the past few years.
 
-Content
-Each app (row) has values for catergory, rating, size, and more.
+In this project, we are working for a development team that wants to create a popluar app which will capture the Android market.
 
-Acknowledgements
-This information is scraped from the Google Play Store. 
-Impored from Kaggle.
+In this project , We will try to find the features of the most popular applications in "Google Play" store and to predict their installs based on those features.
 
-Inspiration
-The Play Store apps data has enormous potential to drive app-making businesses to success. 
-Actionable insights can be drawn for developers to work on and capture the Android market!
