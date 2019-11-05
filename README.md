@@ -1,6 +1,6 @@
 # GooglePlay Apps Analysis
 
-The Applications' market For Android OS is fast growing in the past few years.
+The Applications' market for Android OS is fast growing in the past few years.
 
 In this project, we are working for a development team that wants to create a popluar app which will capture some of the Android market.
 
