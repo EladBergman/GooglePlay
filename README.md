@@ -18,12 +18,12 @@ We work with a web scraped dataset from "kaggle.com" website that consists of 10
 4. Creating liniar regression and Random forest models to predict the number of installs for each app.
 
 ## Summary Of Results
-A. Although 90% of apps are free of charge, users tend to pay for apps from genres Tools, Entertainment and Education.
-B. 50% of apps were installed each more than 1M times. We suggest our development team to aim for installing their app 1M or more times in order to define the success of app.
-C. The most popular genres are: Communication, Productivity, Social, Tools and Arcade.
-D. Strategy games are the most reviewed among all genres.
-E. On average, around 6% of users who download an app write reviews in the Google Play Store.
-F. Liniar regression algorithm with certain genres as features has the best performance while predicting the apps' installs among the examined alternatives.
+1. Although 90% of apps are free of charge, users tend to pay for apps from genres Tools, Entertainment and Education.
+2. 50% of apps were installed each more than 1M times. We suggest our development team to aim for installing their app 1M or more times in order to define the success of app.
+3. The most popular genres are: Communication, Productivity, Social, Tools and Arcade.
+4. Strategy games are the most reviewed among all genres.
+5. On average, around 6% of users who download an app write reviews in the Google Play Store.
+6. Liniar regression algorithm with certain genres as features has the best performance while predicting the apps' installs among the examined alternatives.
 
 ## Real-World Usage Of This Project
 Development teams can use our findings to think about what kind of app they want to develop.
