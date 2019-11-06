@@ -4,6 +4,7 @@
 The Applications' Market for Android OS is fast growing in the past few years.
 In this project, we are working for a development team that wants to create a popluar app which will capture a niche in the Android market.
 We will explore the features of the applications in "Google Play" store and create a model that predicts the number of installs for each app.
+Direct link to the project: [GooglePlay Project](GooglePlayFinalProject.ipynb)
 
 ## The Dataset
 We work with a web scraped dataset from "kaggle.com" website that consists of 10,841 "Google-Play" Store apps for analyzing the Android market. Here you can find an attached link for this dataset: [GooglePlayStoreApps](https://www.kaggle.com/lava18/google-play-store-apps)
