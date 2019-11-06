@@ -10,12 +10,12 @@ We work with a web scraped dataset from "kaggle.com" website that consists of 10
 
 ## Steps Of Our Project
 1. Uploading the dataset and examing its rows and columns.
-2. Cleaning and processing the data in our dataset- including the sub pahses below:
+2. Cleaning and processing the data in our dataset- including the sub phases below:
    * Removing non-english apps ,null values and redundant chars from the dataset.
    * Processing some columns to present their values as one-scale-unit.
    * Choosing columns for analysis and converting their types to numeric or categorial.
-3. Analysis of the relevant data & dealing with ourliers.
-4. Creating liniar regression and Random forest models to predict the number of installs for each app.
+3. Analysis of relevant data & dealing with outliers.
+4. Creating liniar regression and Random Forest models to predict the number of installs for each app.
 
 ## Summary Of Results
 1. Although 90% of apps are free of charge, users tend to pay for apps from genres Tools, Entertainment and Education.
@@ -30,8 +30,8 @@ Development teams can use our findings to think about what kind of app they want
 When having in mind an idea, we can discuss with them about further analysis they need to proceed.
 
 Below some suggestions for future projects:
-1. Building clusters for potential users may install our app based on presonal features.
+1. Building clusters for potential users may install our app based on personal features.
 2. Investigating the reaction of users to apps using two alternatives:
    * Suggesting them features as part of in-app purchases in free apps.
-   * Suggesting them improved features as part of in-advance payment before app installing.
+   * Suggesting them improved features as part of in-advance payment before app installation.
 3. Exploring for key words in review contents to understand the experience of users.
