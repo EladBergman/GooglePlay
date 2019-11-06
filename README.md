@@ -1,5 +1,4 @@
-# Predicting How Much Installs 
-# Our GooglePlay Application May Have
+# Predicting How Much Installs Our GooglePlay Application May Have
 
 ## Introduction
 The Applications' Market for Android OS is fast growing in the past few years.
