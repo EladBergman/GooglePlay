@@ -10,10 +10,10 @@ We work with a web scraped dataset from "kaggle.com" website that consists of 10
 
 ## Steps Of Our Project
 1. Uploading the dataset and examing its rows and columns.
-2. Cleaning and processing the data in our dataset- including the sub pahses below:
-  A. we removed non-english apps ,null values and redundant chars.
-  B. We processed some columns to present their values as one-scale-unit.
-  C. we chose columns for analysis and converted their types to numeric or categorial. 
+2. Cleaning and processing the data in our dataset- including the sub pahses below:\n
+  A. we removed non-english apps ,null values and redundant chars.\n
+  B. We processed some columns to present their values as one-scale-unit.\n
+  C. we chose columns for analysis and converted their types to numeric or categorial.\n 
 3. Analysis of the relevant data & dealing with ourliers.
 4. Creating liniar regression and Random forest models to predict the number of installs for each app.
 
