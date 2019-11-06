@@ -11,9 +11,9 @@ We work with a web scraped dataset from "kaggle.com" website that consists of 10
 ## Steps Of Our Project
 1. Uploading the dataset and examing its rows and columns.
 2. Cleaning and processing the data in our dataset- including the sub pahses below:
-  * Removing non-english apps ,null values and redundant chars from the dataset.
-  * Processing some columns to present their values as one-scale-unit.
-  * Choosing columns for analysis and converting their types to numeric or categorial.
+   * Removing non-english apps ,null values and redundant chars from the dataset.
+   * Processing some columns to present their values as one-scale-unit.
+   * Choosing columns for analysis and converting their types to numeric or categorial.
 3. Analysis of the relevant data & dealing with ourliers.
 4. Creating liniar regression and Random forest models to predict the number of installs for each app.
 
@@ -32,6 +32,6 @@ When having in mind an idea, we can discuss with them about further analysis the
 Below some suggestions for future projects:
 1. Building clusters for potential users may install our app based on presonal features.
 2. Investigating the reaction of users to apps using two alternatives:
-  * Suggesting them features as part of in-app purchases in free apps.
-  * Suggesting them improved features as part of in-advance payment before app installing.
+   * Suggesting them features as part of in-app purchases in free apps.
+   * Suggesting them improved features as part of in-advance payment before app installing.
 3. Exploring for key words in review contents to understand the experience of users.
