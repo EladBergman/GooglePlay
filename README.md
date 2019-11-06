@@ -6,8 +6,7 @@ In this project, we are working for a development team that wants to create a po
 We will explore the features of the applications in "Google Play" store and create a model that predicts the number of installs for each app.
 
 ## The Dataset
-We work with a web scraped dataset from "kaggle.com" website that consists of 10,841 "Google-Play" Store apps for analyzing the Android market.
-Here you can find an attached link for this dataset: [GooglePlayStoreApps](https://www.kaggle.com/lava18/google-play-store-apps)
+We work with a web scraped dataset from "kaggle.com" website that consists of 10,841 "Google-Play" Store apps for analyzing the Android market. Here you can find an attached link for this dataset: [GooglePlayStoreApps](https://www.kaggle.com/lava18/google-play-store-apps)
 
 ## Steps Of Our Project
 1. Uploading the dataset and examing its rows and columns.
